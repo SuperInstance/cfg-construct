@@ -1,0 +1,11 @@
+[package]
+name = "cfg-construct"
+version = "0.1.0"
+edition = "2021"
+description = "Control flow graph construction from basic blocks with dominance analysis for compiler infrastructure"
+license = "MIT"
+repository = "https://github.com/SuperInstance/cfg-construct"
+keywords = ["cfg", "control-flow", "graph", "compiler", "dominance"]
+categories = ["algorithms", "development-tools"]
+
+[dependencies]
